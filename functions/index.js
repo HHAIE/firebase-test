@@ -24,6 +24,7 @@ var App = null
 
 const customToken = functions.https.onCall( (data,context) => 
 {
+    console.log(data.userid)
     try {
         if ( !App ) App = admin.initializeApp( { 
             serviceAccountId: data.serviceAccountId,

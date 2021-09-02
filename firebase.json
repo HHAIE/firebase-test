@@ -8,7 +8,7 @@
   "storage": [
     {
       "rules": "config/firebase-storage.rules",
-      "bucket": ""
+      "bucket": "facebook-log-in-ab077.appspot.com"
     }
   ]
 }

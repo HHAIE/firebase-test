@@ -1,11 +1,12 @@
 {
-    "apiKey": "",
-    "authDomain": "",
-    "databaseURL": "",
-    "projectId": "",
-    "storageBucket": "",
-    "messagingSenderId": "",
-    "appId": "",
-    "hostingUrl": "",
-    "serviceAccountId": ""
+    "apiKey": "AIzaSyB0GFsUQgXVIHI6NnfERoffw5fCxzoPwRI",
+    "authDomain": "facebook-log-in-ab077.firebaseapp.com",
+    "databaseURL": "https://facebook-log-in-ab077-default-rtdb.firebaseio.com",
+    "projectId": "facebook-log-in-ab077",
+    "storageBucket": "facebook-log-in-ab077.appspot.com",
+    "messagingSenderId": "455398610405",
+    "appId": "1:455398610405:web:dd128bef28d4c3a205cb0c",
+    "hostingUrl": "https://facebook-log-in-ab077.firebaseapp.com/",
+    "serviceAccountId": "firebase-adminsdk-w90js@facebook-log-in-ab077.iam.gserviceaccount.com",
+    "measurementId": "G-R553M4VDN6"
 }
